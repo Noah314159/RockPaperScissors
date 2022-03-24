@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="scissorButton_contentDesc">Scissor</string>
+    <string name="paperButton_contentDesc">Paper</string>
+    <string name="rockButton_contentDesc">Rock</string>
+    <string name="playButton_text">Play!</string>
+    <string name="resetButton_text">Reset</string>
+    <string name="VS_text">VS</string>
+    <string name="opponentScore">0</string>
+    <string name="playerScore">0</string>
+    <string name="playerSymbolImage_contentDesc">players symbol</string>
+    <string name="opponentSymbolImage_contentDesc">opponents symbol</string>
+</resources>
